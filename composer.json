@@ -1,0 +1,18 @@
+{
+    "name": "daxdoxsi/jobs",
+    "description": "Portal Jobs",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Daxdoxsi\\Jobs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David M. Miller",
+            "email": "daxdoxsi@gmail.coom"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
